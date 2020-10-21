@@ -1,5 +1,9 @@
 @charset 'utf-8';
 
+body {
+    background: pink;
+}
+
 h1 {
-    color: black;
+    color: skyblue;
 }
